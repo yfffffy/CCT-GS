@@ -5,7 +5,3 @@ Official implementation of
 Accepted by IEEE VCIP 2026.
 
 > Code and pretrained models are coming soon.
-
-## Citation
-
-Citation information will be updated after publication.
